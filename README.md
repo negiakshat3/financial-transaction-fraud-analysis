@@ -1,5 +1,7 @@
 # Financial Transaction Fraud & Anomaly Analysis Using SQL
 
+link to my project dashboard :- https://drive.google.com/file/d/1SXLUEWI0kQ6KW1KEOrFMelFzpUtEIRIC/view?usp=sharing
+
 ## Project Overview
 
 This project analyzes financial transactions using PostgreSQL to identify patterns associated with fraudulent activity. The analysis focuses on transaction types, transaction amounts, fraud rates, balance discrepancies, and high-value transactions.
